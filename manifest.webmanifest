@@ -1,7 +1,7 @@
 {
   "name": "CIA Challenge Exam Study",
   "short_name": "CIA Study",
-  "description": "Offline study app: section summaries, 152 flashcards, and 275 practice questions with a timed exam simulation.",
+  "description": "Offline study app: section summaries, 152 flashcards, and 284 practice questions with a timed exam simulation.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

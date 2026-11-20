@@ -1,5 +1,5 @@
 // CIA Challenge Exam Study - offline service worker
-var VERSION = "3c21c4834430";
+var VERSION = "2b521cb8f046";
 var CACHE = "cia-study-" + VERSION;
 var SHELL = ["./", "./index.html", "./manifest.webmanifest",
              "./icon-180.png", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png"];
